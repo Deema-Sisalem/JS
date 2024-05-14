@@ -1,0 +1,16 @@
+h1 {
+    color: #333;
+  }
+
+button {
+    padding: 10px 25px;
+    background-color: #b853ee;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color: #a600ff;
+}
